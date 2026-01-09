@@ -23,7 +23,8 @@ jobs:
 
       - name: Fetch metrics
         env:
-          OPENALEX_EMAIL: you@email.com
+          OPENALEX_EMAIL: thomas.zaragoza@univ-pau.fr
+          OPENALEX_AUTHOR_ID: A5042578790
         run: python scripts/fetch_metrics.py
 
       - name: Commit & push if changed

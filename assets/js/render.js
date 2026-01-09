@@ -1,12 +1,57 @@
 import { escapeHtml, formatInt } from "./utils.js";
 
-export function renderStats(metrics) {
-  document.getElementById("statTotalCites").textContent = formatInt(metrics.total_citations);
-  document.getElementById("statPaperCount").textContent = formatInt(metrics.papers?.length ?? 0);
+// assets/js/render.js
 
-  const dt = metrics.updated_at ? new Date(metrics.updated_at) : null;
-  document.getElementById("statUpdatedAt").textContent =
-    dt && !isNaN(dt) ? dt.toISOString().slice(0, 10) : "—";
+function el(id) {
+    return document.getElementById(id);
+}
+
+function toInt(x, fallback = 0) {
+    const v = Number(x);
+    return Number.isFinite(v) ? Math.trunc(v) : fallback;
+}
+
+function fmtDate(iso) {
+    if (!iso) return "—";
+    const d = new Date(iso);
+    if (Number.isNaN(d.getTime())) return "—";
+    return d.toLocaleString(undefined, { year: "numeric", month: "short", day: "2-digit" });
+}
+
+export function renderStats(metrics) {
+    console.log("[renderStats] keys:", Object.keys(metrics || {}));
+    console.log("[renderStats] works length:", metrics?.works?.length);
+    console.log("[renderStats] papers length:", metrics?.papers?.length);
+    console.log("[renderStats] papers_tracked:", metrics?.papers_tracked);
+
+    const works = Array.isArray(metrics?.works)
+        ? metrics.works
+        : Array.isArray(metrics?.papers)
+            ? metrics.papers
+            : [];
+
+    const totalCitations =
+        metrics?.total_citations ??
+        metrics?.totalCitations ??
+        toInt(works.reduce((acc, w) => acc + toInt(w?.citations, 0), 0), 0);
+
+    const papersTracked =
+        metrics?.papers_tracked ??
+        metrics?.papersTracked ??
+        works.length;
+
+    const updatedAt =
+        metrics?.updated_at ??
+        metrics?.updatedAt ??
+        null;
+
+    const sCites = el("statTotalCites");
+    const sCount = el("statPaperCount");
+    const sUpd = el("statUpdatedAt");
+
+    if (sCites) sCites.textContent = String(toInt(totalCitations, 0));
+    if (sCount) sCount.textContent = String(toInt(papersTracked, works.length));
+    if (sUpd) sUpd.textContent = fmtDate(updatedAt);
 }
 
 export function renderPubsTable(containerEl, pubs, sortMode) {

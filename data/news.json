@@ -1,0 +1,67 @@
+﻿{
+  "items": [
+    {
+      "date": "2025-10-01",
+      "title": "Journal article — Renewable and Sustainable Energy Reviews",
+      "tag": "Publication",
+      "icon": "assets/img/icons/paper.png",
+      "body_html": "<strong>10/2025:</strong> New journal article: <strong>A systematic mapping study on software-based feedback for energy consumption</strong> (<em>Renewable and Sustainable Energy Reviews</em>). DOI: <a href=\"https://doi.org/10.1016/j.rser.2025.115889\" target=\"_blank\" rel=\"noreferrer\">10.1016/j.rser.2025.115889</a>. Co-authors: Zaragoza, Noureddine, Expósito."
+    },
+    {
+      "date": "2025-06-18",
+      "title": "EASE 2025 — Presenting our paper at EASE2025 in Istanbul, Türkiye",
+      "tag": "Talk",
+      "icon": "assets/img/icons/talk.png",
+      "body_html": "<strong>06/2025:</strong> <strong>EASE 2025</strong> (Wed 18 Jun, 15:55) — Talk: <strong>Understanding and Influencing End-User Behavior in Software Energy Consumption</strong>. <br> Links: <a href=\"https://github.com/Tzaragoza/research-artifacts/blob/main/talks/2025-ease/slides.pdf\" target=\"_blank\" rel=\"noreferrer\">Slides (PDF)</a> · <a href=\"https://conf.researchr.org/home/ease-2025\" target=\"_blank\" rel=\"noreferrer\">Event page</a>."
+    },
+    {
+      "date": "2025-06-17",
+      "title": "Conference paper — ACM / Crossref",
+      "tag": "Publication",
+      "icon": "assets/img/icons/paper.png",
+      "body_html": "<strong>06/2025:</strong> Conference paper: <strong>Understanding and Influencing End-User Behavior in Software Energy Consumption</strong>. DOI: <a href=\"https://doi.org/10.1145/3756681.3756930\" target=\"_blank\" rel=\"noreferrer\">10.1145/3756681.3756930</a>. Co-authors: Zaragoza, Soulance, Noureddine, Expósito."
+    },
+    {
+      "date": "2025-04-16",
+      "title": "Dataset release — SMS Corpus & Analysis",
+      "tag": "Dataset",
+      "icon": "assets/img/icons/data.png",
+      "body_html": "<strong>04/2025:</strong> Release of the <strong>research dataset</strong> underlying our systematic mapping study on software-based feedback for energy consumption. The dataset includes the study corpus, screening and classification results, and analysis artefacts used in the SMS. <a href=\"https://zenodo.org/records/15226417\" target=\"_blank\" rel=\"noreferrer\">Dataset page</a>."
+    },
+    {
+      "date": "2025-04-01",
+      "title": "Journal article — Energy Research & Social Science",
+      "tag": "Publication",
+      "icon": "assets/img/icons/paper.png",
+      "body_html": "<strong>04/2025:</strong> Journal article: <strong>A systematic mapping study on software approaches analyzing human behavior in energy efficiency</strong> (<em>Energy Research &amp; Social Science</em>). DOI: <a href=\"https://doi.org/10.1016/j.erss.2025.103991\" target=\"_blank\" rel=\"noreferrer\">10.1016/j.erss.2025.103991</a>. Co-authors: Zaragoza, Noureddine, Expósito."
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Dataset release — User perspectives on Software Energy Consumption",
+      "tag": "Dataset",
+      "icon": "assets/img/icons/data.png",
+      "body_html": "<strong>04/2025:</strong> Release of the <strong>Understanding and Influencing End-User Behavior in Software Energy Consumption: Campus-wide survey</strong>. Includes demographics, NEP attitudes, perception/comprehension/actions scales, ranking tasks, and interview-based qualitative insights. <br> Links: <a href=\"https://zenodo.org/records/15124355\" target=\"_blank\" rel=\"noreferrer\">Dataset page</a>."
+    },
+    {
+      "date": "2024-03-13",
+      "title": "PerCom 2024 —  Presenting our WIP paper and poster at PerCom2024 in Biarritz, France",
+      "tags": [ "Talk", "Poster" ],
+      "icon": "assets/img/icons/poster.png",
+      "body_html": "<strong>03/2025:</strong> <strong>PerCom 2024</strong> (Wed 13 Mar, 15:30–17:00) — WIP poster: <strong>Studying the Impact of User Feedback on Software Energy Consumption</strong>. <br> Links: <a href=\"https://github.com/Tzaragoza/research-artifacts/blob/main/talks/2025-percom/poster.pdf\" target=\"_blank\" rel=\"noreferrer\">Poster (PDF)</a> · <a href=\"https://github.com/Tzaragoza/research-artifacts/blob/main/talks/2025-percom/slides.pdf\" target=\"_blank\" rel=\"noreferrer\">Slides (PDF)</a> · <a href=\"https://percom.org/2024/\" target=\"_blank\" rel=\"noreferrer\">Event page</a>."
+    },
+    {
+      "date": "2025-06-09",
+      "title": "ICT4S 2025 — Behave Workshop talk",
+      "tag": "Talk",
+      "icon": "assets/img/icons/talk.png",
+      "body_html": "<strong>03/2025:</strong> <strong>Behave Workshop @ ICT4S 2025</strong> — Talk: <strong>Understanding End-User Perspective on Software Energy Consumption</strong>. <br> Links: <a href=\"https://github.com/Tzaragoza/research-artifacts/blob/main/talks/2025-ict4s/slides.pdf\" target=\"_blank\" rel=\"noreferrer\">Slides (PDF)</a> · <a href=\"https://www.noureddine.org/research/behave/ict4s-2025-workshop\" target=\"_blank\" rel=\"noreferrer\">Workshop page</a>."
+    },
+    {
+      "date": "2024-03-11",
+      "title": "Conference paper — PerCom Workshops 2024 (IEEE)",
+      "tag": "Publication",
+      "icon": "assets/img/icons/paper.png",
+      "body_html": "<strong>03/2024:</strong> PerCom Workshops paper: <strong>Studying the Impact of User Feedback on Software Energy Consumption</strong>. DOI: <a href=\"https://doi.org/10.1109/percomworkshops59983.2024.10503511\" target=\"_blank\" rel=\"noreferrer\">10.1109/percomworkshops59983.2024.10503511</a>. Co-authors: Zaragoza, Noureddine, Expósito."
+    }
+  ]
+}

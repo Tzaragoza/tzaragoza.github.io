@@ -1,0 +1,185 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Thomas Zaragoza — Publications</title>
+    <meta name="description" content="Publications and research metrics for Thomas Zaragoza." />
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="container header-grid">
+
+            <div class="identity">
+                <div class="identity-top">
+                    <div class="avatar-frame">
+                        <img src="assets/img/pfp.jpeg" alt="Portrait of Thomas Zaragoza" loading="lazy" />
+                    </div>
+
+                    <div class="identity-text">
+                        <h1>Thomas ZARAGOZA</h1>
+                        <p class="muted">PhD Student — Computer Science</p>
+                        <div class="links">
+                            <a href="mailto:thomas.zaragoza@univ-pau.fr">thomas.zaragoza@univ-pau.fr</a>
+                            <span class="dot">·</span>
+                            <a href="https://github.com/Tzaragoza" target="_blank" rel="noreferrer">GitHub</a>
+                            <span class="dot">·</span>
+                            <a href="https://www.linkedin.com/in/thomas-zaragoza-bab653160" target="_blank" rel="noreferrer">LinkedIn</a>
+                            <span class="dot">·</span>
+                            <a href="assets/img/CV_ZARAGOZA_Thomas.pdf">CV (PDF)</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="identity-divider" aria-hidden="true"></div>
+
+                <nav class="tabs" aria-label="Site navigation">
+                    <a class="tab" href="index.html">Home</a>
+                    <a class="tab active" href="publications.html">Publications</a>
+                    <a class="tab" href="talks.html">Talks</a>
+                    <a class="tab" href="projects.html">Projects</a>
+                    <a class="tab" href="about.html">About</a>
+                </nav>
+            </div>
+
+            <!-- Stats (same ids as your current JS expects) -->
+            <div class="stat-cards">
+                <div class="card">
+                    <div class="card-label">Total citations</div>
+                    <div class="card-value" id="statTotalCites">—</div>
+                </div>
+                <div class="card">
+                    <div class="card-label">Papers tracked</div>
+                    <div class="card-value" id="statPaperCount">—</div>
+                </div>
+                <div class="card">
+                    <div class="card-label">Last update</div>
+                    <div class="card-value" id="statUpdatedAt">—</div>
+                </div>
+            </div>
+
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Serious / core metrics -->
+        <section class="panel">
+            <div class="panel-head">
+                <h2>Research metrics</h2>
+            </div>
+
+            <div class="grid-2">
+                <div class="chart-card">
+                    <div class="chart-title">Citations by year</div>
+                    <div class="chart-wrap"><canvas id="chartCitationsByYear"></canvas></div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-title">Top papers by citations</div>
+                    <div class="chart-wrap"><canvas id="chartTopPapers"></canvas></div>
+                </div>
+            </div>
+
+            <div class="panel-foot muted small">
+                Source: OpenAlex (cached daily via GitHub Actions).
+            </div>
+        </section>
+
+        <!-- Main publications table -->
+        <section class="panel">
+            <div class="panel-head row">
+                <div>
+                    <h2>Publications</h2>
+                    <p class="muted small">Sort by citations, year, or title.</p>
+                </div>
+                <div class="controls">
+                    <label class="small muted" for="sortSelect">Sort</label>
+                    <select id="sortSelect">
+                        <option value="citations_desc">Citations (desc)</option>
+                        <option value="year_desc">Year (desc)</option>
+                        <option value="year_asc">Year (asc)</option>
+                        <option value="title_asc">Title (A→Z)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div id="pubsTableWrap"></div>
+
+            <div class="panel-foot muted small">
+                Venue/type metadata: OpenAlex. Author profiles: ORCID/HAL may differ from Crossref; verify corner cases manually.
+            </div>
+        </section>
+
+        <!-- Serious / portfolio overview (requires works_tidy.json or aggregates) -->
+        <section class="panel">
+            <div class="panel-head">
+                <h2>Portfolio overview</h2>
+                <p class="muted small">Open access, venues, and collaboration.</p>
+            </div>
+
+            <div class="grid-2">
+                <div class="chart-card">
+                    <div class="chart-title">Open access</div>
+                    <div class="chart-wrap"><canvas id="chartOaSplit"></canvas></div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-title">Publication types</div>
+                    <div class="chart-wrap"><canvas id="chartTypeMix"></canvas></div>
+                </div>
+            </div>
+
+            <div class="grid-2" style="margin-top:12px;">
+                <div class="chart-card">
+                    <div class="chart-title">Top venues</div>
+                    <div class="chart-wrap"><canvas id="chartVenues"></canvas></div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-title">Top coauthors</div>
+                    <div class="chart-wrap"><canvas id="chartCoauthors"></canvas></div>
+                </div>
+            </div>
+
+            <div class="panel-foot muted small">
+                Notes: duplicates are merged using DOI → HAL id → fuzzy title+year+first-author.
+            </div>
+        </section>
+
+        <!-- Fun / exploratory -->
+        <section class="panel">
+            <div class="panel-head">
+                <h2>Topics & keywords</h2>
+                <p class="muted small">OpenAlex topics/keywords (lightly filtered).</p>
+            </div>
+
+            <div class="grid-2">
+                <div class="chart-card">
+                    <div class="chart-title">Top topics</div>
+                    <div class="chart-wrap"><canvas id="chartTopics"></canvas></div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-title">Top keywords</div>
+                    <div class="chart-wrap"><canvas id="chartKeywords"></canvas></div>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p class="muted small">
+                Built on GitHub Pages. Metrics updated automatically via GitHub Actions.
+            </p>
+        </footer>
+    </main>
+
+    <!-- Your existing renderer (must be made page-safe + load works_tidy.json for extra charts) -->
+    <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

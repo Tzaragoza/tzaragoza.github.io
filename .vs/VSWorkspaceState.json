@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\js",
+    "\\data",
+    "\\scripts"
+  ],
+  "SelectedNode": "\\assets\\js\\render.js",
+  "PreviewInSolutionExplorer": false
+}
