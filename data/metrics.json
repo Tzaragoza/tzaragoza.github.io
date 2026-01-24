@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-23T06:38:31+00:00",
+  "updated_at": "2026-01-24T06:35:05+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 1,
@@ -31,7 +31,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 2.02156574,
-      "citation_norm_percentile": 0.71688378,
+      "citation_norm_percentile": 0.71383579,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -61,7 +61,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.16604905,
+      "citation_norm_percentile": 0.1632654,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -94,7 +94,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.65986811,
+      "citation_norm_percentile": 0.65096513,
       "topics": [
         "Green IT and Sustainability",
         "Spreadsheets and End-User Computing",
@@ -128,7 +128,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.0044086,
+      "citation_norm_percentile": 0.00441617,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -163,7 +163,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.49786914,
+      "citation_norm_percentile": 0.49659665,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
@@ -200,7 +200,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05626978,
+      "citation_norm_percentile": 0.05624812,
       "topics": [
         "Semantic Web and Ontologies"
       ],
