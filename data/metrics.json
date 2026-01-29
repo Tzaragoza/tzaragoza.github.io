@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-28T06:39:54+00:00",
+  "updated_at": "2026-01-29T06:52:27+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 1,
@@ -200,7 +200,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05636132,
+      "citation_norm_percentile": 0.05634259,
       "topics": [
         "Semantic Web and Ontologies"
       ],
