@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-02T07:05:36+00:00",
+  "updated_at": "2026-02-03T06:55:40+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
-  "total_citations": 1,
+  "total_citations": 3,
   "citations_by_year": [
     {
       "year": 2022,
@@ -14,7 +14,7 @@
     },
     {
       "year": 2025,
-      "citations": 1
+      "citations": 3
     }
   ],
   "works": [
@@ -23,15 +23,15 @@
       "title": "A systematic mapping study on software approaches analyzing human behavior in energy efficiency",
       "year": 2025,
       "venue": "Energy Research & Social Science",
-      "citations": 1,
+      "citations": 2,
       "doi": "10.1016/j.erss.2025.103991",
       "url": "https://doi.org/10.1016/j.erss.2025.103991",
       "hal_url": null,
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 2.02156574,
-      "citation_norm_percentile": 0.71383579,
+      "fwci": 4.04313148,
+      "citation_norm_percentile": 0.82380855,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -53,15 +53,15 @@
       "title": "A systematic mapping study on software-based feedback for energy consumption",
       "year": 2025,
       "venue": "Renewable and Sustainable Energy Reviews",
-      "citations": 0,
+      "citations": 1,
       "doi": "10.1016/j.rser.2025.115889",
       "url": "https://doi.org/10.1016/j.rser.2025.115889",
       "hal_url": null,
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.0,
-      "citation_norm_percentile": 0.16182567,
+      "fwci": 2.02156574,
+      "citation_norm_percentile": 0.75486589,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -94,7 +94,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.65096513,
+      "citation_norm_percentile": 0.62559086,
       "topics": [
         "Green IT and Sustainability",
         "Spreadsheets and End-User Computing",
@@ -128,7 +128,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00441617,
+      "citation_norm_percentile": 0.00416428,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -163,7 +163,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.49659665,
+      "citation_norm_percentile": 0.4921689,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
@@ -200,7 +200,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05634259,
+      "citation_norm_percentile": 0.0560115,
       "topics": [
         "Semantic Web and Ontologies"
       ],
