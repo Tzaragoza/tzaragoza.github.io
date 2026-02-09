@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-08T06:54:17+00:00",
+  "updated_at": "2026-02-09T07:07:28+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 3,
@@ -191,16 +191,16 @@
       "id": "W4283453936",
       "title": "From text to data inside bibliographic records. Entity recognition and entity linking of contributors and their roles from statements of responsibility",
       "year": 2022,
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": "—",
       "citations": 0,
       "doi": null,
       "url": "https://hal.science/hal-03701628",
       "hal_url": "https://hal.science/hal-03701628",
       "type": "preprint",
       "is_oa": true,
-      "oa_status": "green",
+      "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.0560115,
+      "citation_norm_percentile": 0.05597771,
       "topics": [
         "Semantic Web and Ontologies"
       ],
