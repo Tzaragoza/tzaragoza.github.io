@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-13T07:02:39+00:00",
+  "updated_at": "2026-02-14T06:50:06+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 3,
@@ -31,7 +31,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 4.04313148,
-      "citation_norm_percentile": 0.81540707,
+      "citation_norm_percentile": 0.81443512,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -200,7 +200,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05600711,
+      "citation_norm_percentile": 0.05600485,
       "topics": [
         "Semantic Web and Ontologies"
       ],
