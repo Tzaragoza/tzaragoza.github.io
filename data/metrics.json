@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-20T07:00:18+00:00",
+  "updated_at": "2026-02-21T06:46:30+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 3,
@@ -61,7 +61,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 2.02156574,
-      "citation_norm_percentile": 0.73969324,
+      "citation_norm_percentile": 0.73452668,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -94,7 +94,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.62559086,
+      "citation_norm_percentile": 0.59077924,
       "topics": [
         "Green IT and Sustainability",
         "Spreadsheets and End-User Computing",
@@ -102,11 +102,14 @@
       ],
       "keywords": [
         "Energy consumption",
-        "Software",
+        "Work (physics)",
+        "Workflow",
         "Consumption (sociology)",
+        "Carbon footprint",
+        "Closing (real estate)",
         "Energy (signal processing)",
-        "Energy expenditure",
-        "Production (economics)"
+        "Efficient energy use",
+        "Software"
       ],
       "coauthors": [
         "Thibaut Soulance",
