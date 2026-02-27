@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-26T07:03:29+00:00",
+  "updated_at": "2026-02-27T06:58:11+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 3,
@@ -30,8 +30,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 1.4882,
-      "citation_norm_percentile": 0.80559327,
+      "fwci": 1.4856,
+      "citation_norm_percentile": 0.8052961,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -60,8 +60,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7441,
-      "citation_norm_percentile": 0.7324221,
+      "fwci": 0.7428,
+      "citation_norm_percentile": 0.73212657,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -94,7 +94,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.58649906,
+      "citation_norm_percentile": 0.57961443,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -131,7 +131,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00451643,
+      "citation_norm_percentile": 0.0041112,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -166,7 +166,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.48513548,
+      "citation_norm_percentile": 0.48238539,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
