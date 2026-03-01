@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-28T06:41:55+00:00",
+  "updated_at": "2026-03-01T06:51:25+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 3,
@@ -30,8 +30,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 1.4856,
-      "citation_norm_percentile": 0.8052961,
+      "fwci": 1.4769,
+      "citation_norm_percentile": 0.80429083,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
