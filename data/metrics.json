@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-28T07:01:58+00:00",
+  "updated_at": "2026-03-29T07:07:35+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 6,
   "total_citations": 3,
@@ -94,7 +94,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.5805148,
+      "citation_norm_percentile": 0.57865537,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
