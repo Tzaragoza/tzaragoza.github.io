@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-04-22T07:52:03+00:00",
+  "updated_at": "2026-04-23T07:58:30+00:00",
   "author_openalex_id": "A5042578790",
-  "papers_tracked": 6,
+  "papers_tracked": 7,
   "total_citations": 3,
   "citations_by_year": [
     {
@@ -15,9 +15,46 @@
     {
       "year": 2025,
       "citations": 3
+    },
+    {
+      "year": 2026,
+      "citations": 0
     }
   ],
   "works": [
+    {
+      "id": "W7155138707",
+      "title": "Adaptive Software Energy Feedback for Long-Term User Engagement",
+      "year": 2026,
+      "venue": "SPIRE - Sciences Po Institutional REpository",
+      "citations": 0,
+      "doi": null,
+      "url": "https://hal.science/hal-05594918",
+      "hal_url": "https://hal.science/hal-05594918",
+      "type": "article",
+      "is_oa": false,
+      "oa_status": "closed",
+      "fwci": 0.0,
+      "citation_norm_percentile": 0.94774688,
+      "topics": [
+        "Green IT and Sustainability",
+        "Usability and User Interface Design",
+        "Personal Information Management and User Behavior"
+      ],
+      "keywords": [
+        "Software",
+        "Energy (signal processing)",
+        "User engagement",
+        "Key (lock)",
+        "Control (management)",
+        "User interface"
+      ],
+      "coauthors": [
+        "Adel Noureddine",
+        "Ernesto Exposito"
+      ],
+      "source": "OpenAlex"
+    },
     {
       "id": "W4407603876",
       "title": "A systematic mapping study on software approaches analyzing human behavior in energy efficiency",
