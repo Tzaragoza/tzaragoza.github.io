@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T07:58:56+00:00",
+  "updated_at": "2026-05-10T08:10:13+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 7,
   "total_citations": 3,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.79454337,
+      "citation_norm_percentile": 0.78568832,
       "topics": [
         "Green IT and Sustainability",
         "Usability and User Interface Design",
