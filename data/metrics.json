@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-09T09:42:10+00:00",
+  "updated_at": "2026-07-10T09:38:01+00:00",
   "author_openalex_id": "A5042578790",
-  "papers_tracked": 7,
-  "total_citations": 3,
+  "papers_tracked": 8,
+  "total_citations": 5,
   "citations_by_year": [
     {
       "year": 2022,
@@ -14,7 +14,7 @@
     },
     {
       "year": 2025,
-      "citations": 3
+      "citations": 5
     },
     {
       "year": 2026,
@@ -56,6 +56,74 @@
       "source": "OpenAlex"
     },
     {
+      "id": "W7167840122",
+      "title": "Adaptive Software Energy Feedback for Long-Term User Engagement",
+      "year": 2026,
+      "venue": "Lecture notes in computer science",
+      "citations": 0,
+      "doi": "10.1007/978-3-032-30699-9_1",
+      "url": "https://doi.org/10.1007/978-3-032-30699-9_1",
+      "hal_url": null,
+      "type": "book-chapter",
+      "is_oa": false,
+      "oa_status": "closed",
+      "fwci": 0.0,
+      "citation_norm_percentile": 0.98816856,
+      "topics": [
+        "Green IT and Sustainability",
+        "Software Engineering Research",
+        "Software System Performance and Reliability"
+      ],
+      "keywords": [
+        "Novelty",
+        "Software",
+        "Energy (signal processing)",
+        "Key (lock)",
+        "Preference",
+        "Component (thermodynamics)",
+        "Empirical research",
+        "Component-based software engineering"
+      ],
+      "coauthors": [
+        "Adel Noureddine",
+        "Ernesto Exposito"
+      ],
+      "source": "OpenAlex"
+    },
+    {
+      "id": "W4411167966",
+      "title": "A systematic mapping study on software-based feedback for energy consumption",
+      "year": 2025,
+      "venue": "Renewable and Sustainable Energy Reviews",
+      "citations": 2,
+      "doi": "10.1016/j.rser.2025.115889",
+      "url": "https://doi.org/10.1016/j.rser.2025.115889",
+      "hal_url": null,
+      "type": "article",
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "fwci": 0.9328,
+      "citation_norm_percentile": 0.75360982,
+      "topics": [
+        "Green IT and Sustainability",
+        "Smart Grid Energy Management",
+        "Building Energy and Comfort Optimization"
+      ],
+      "keywords": [
+        "Computer science",
+        "Software",
+        "Energy consumption",
+        "Software engineering",
+        "Engineering",
+        "Operating system"
+      ],
+      "coauthors": [
+        "Adel Noureddine",
+        "Ernesto Exposito"
+      ],
+      "source": "OpenAlex"
+    },
+    {
       "id": "W4407603876",
       "title": "A systematic mapping study on software approaches analyzing human behavior in energy efficiency",
       "year": 2025,
@@ -86,52 +154,19 @@
       "source": "OpenAlex"
     },
     {
-      "id": "W4411167966",
-      "title": "A systematic mapping study on software-based feedback for energy consumption",
-      "year": 2025,
-      "venue": "Renewable and Sustainable Energy Reviews",
-      "citations": 1,
-      "doi": "10.1016/j.rser.2025.115889",
-      "url": "https://doi.org/10.1016/j.rser.2025.115889",
-      "hal_url": null,
-      "type": "article",
-      "is_oa": true,
-      "oa_status": "hybrid",
-      "fwci": 0.4802,
-      "citation_norm_percentile": 0.64260224,
-      "topics": [
-        "Green IT and Sustainability",
-        "Smart Grid Energy Management",
-        "Building Energy and Comfort Optimization"
-      ],
-      "keywords": [
-        "Computer science",
-        "Software",
-        "Energy consumption",
-        "Software engineering",
-        "Engineering",
-        "Operating system"
-      ],
-      "coauthors": [
-        "Adel Noureddine",
-        "Ernesto Exposito"
-      ],
-      "source": "OpenAlex"
-    },
-    {
       "id": "W7117131778",
       "title": "Understanding and Influencing End-User Behavior in Software Energy Consumption",
       "year": 2025,
       "venue": "—",
-      "citations": 0,
+      "citations": 1,
       "doi": "10.1145/3756681.3756930",
       "url": "https://doi.org/10.1145/3756681.3756930",
       "hal_url": null,
       "type": "article",
       "is_oa": true,
       "oa_status": "gold",
-      "fwci": 0.0,
-      "citation_norm_percentile": 0.5010655,
+      "fwci": 0.4664,
+      "citation_norm_percentile": 0.71705228,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
