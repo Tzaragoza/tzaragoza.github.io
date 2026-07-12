@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T07:58:39+00:00",
+  "updated_at": "2026-07-12T08:20:23+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -68,7 +68,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.98816856,
+      "citation_norm_percentile": 0.97070064,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
