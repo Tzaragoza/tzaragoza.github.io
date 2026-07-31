@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T08:28:46+00:00",
+  "updated_at": "2026-07-31T08:51:17+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -34,8 +34,8 @@
       "type": "conference-paper",
       "is_oa": false,
       "oa_status": "closed",
-      "fwci": null,
-      "citation_norm_percentile": null,
+      "fwci": 0.0,
+      "citation_norm_percentile": 0.36227745,
       "topics": [
         "Green IT and Sustainability",
         "Usability and User Interface Design",
@@ -67,8 +67,8 @@
       "type": "conference-paper",
       "is_oa": false,
       "oa_status": "closed",
-      "fwci": null,
-      "citation_norm_percentile": null,
+      "fwci": 0.0,
+      "citation_norm_percentile": 0.94069876,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
@@ -165,8 +165,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "gold",
-      "fwci": null,
-      "citation_norm_percentile": null,
+      "fwci": 3.4774,
+      "citation_norm_percentile": 0.9362212,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -202,8 +202,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": null,
-      "citation_norm_percentile": null,
+      "fwci": 0.0,
+      "citation_norm_percentile": 0.00496428,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -238,7 +238,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.46444684,
+      "citation_norm_percentile": 0.47135976,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
@@ -274,8 +274,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": null,
-      "citation_norm_percentile": null,
+      "fwci": 0.0,
+      "citation_norm_percentile": 0.05120575,
       "topics": [
         "Semantic Web and Ontologies"
       ],
