@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T08:51:17+00:00",
+  "updated_at": "2026-08-01T08:22:48+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.36227745,
+      "citation_norm_percentile": 0.36230203,
       "topics": [
         "Green IT and Sustainability",
         "Usability and User Interface Design",
@@ -68,7 +68,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.94069876,
+      "citation_norm_percentile": 0.94062012,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
@@ -165,8 +165,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "gold",
-      "fwci": 3.4774,
-      "citation_norm_percentile": 0.9362212,
+      "fwci": 3.4704,
+      "citation_norm_percentile": 0.93612196,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -203,7 +203,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00496428,
+      "citation_norm_percentile": 0.00493905,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -238,7 +238,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.47135976,
+      "citation_norm_percentile": 0.47202539,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
@@ -275,7 +275,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05120575,
+      "citation_norm_percentile": 0.05120674,
       "topics": [
         "Semantic Web and Ontologies"
       ],
