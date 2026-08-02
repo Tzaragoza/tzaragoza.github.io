@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T08:22:48+00:00",
+  "updated_at": "2026-08-02T08:25:53+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -102,8 +102,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.9328,
-      "citation_norm_percentile": 0.75360982,
+      "fwci": 0.6128,
+      "citation_norm_percentile": 0.63633205,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -238,7 +238,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.47202539,
+      "citation_norm_percentile": 0.47205015,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
