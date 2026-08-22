@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:49:43+00:00",
+  "updated_at": "2026-08-22T06:41:24+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -57,7 +57,7 @@
     },
     {
       "id": "W7167840122",
-      "title": "Adaptive Software Energy Feedback for Long-Term User Engagement",
+      "title": "Adaptive Software Energy Feedback for Long-Term User Engagement",
       "year": 2026,
       "venue": "Lecture notes in computer science",
       "citations": 0,
@@ -68,7 +68,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.94062012,
+      "citation_norm_percentile": 0.92322592,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
@@ -102,8 +102,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.6115,
-      "citation_norm_percentile": 0.63587945,
+      "fwci": 0.5779,
+      "citation_norm_percentile": 0.6231951,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -135,8 +135,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.5633,
-      "citation_norm_percentile": 0.58189798,
+      "fwci": 0.5779,
+      "citation_norm_percentile": 0.59523468,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -203,7 +203,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00491375,
+      "citation_norm_percentile": 0.00468347,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
