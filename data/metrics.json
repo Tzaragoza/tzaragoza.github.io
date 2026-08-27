@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:51:39+00:00",
+  "updated_at": "2026-08-27T17:25:19+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.36230203,
+      "citation_norm_percentile": 0.35758473,
       "topics": [
         "Green IT and Sustainability",
         "Usability and User Interface Design",
@@ -102,8 +102,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.5754,
-      "citation_norm_percentile": 0.62205067,
+      "fwci": 0.5606,
+      "citation_norm_percentile": 0.61424446,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -135,8 +135,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.5779,
-      "citation_norm_percentile": 0.59523468,
+      "fwci": 0.5606,
+      "citation_norm_percentile": 0.58602015,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -203,7 +203,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00468347,
+      "citation_norm_percentile": 0.00489527,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -275,7 +275,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05120674,
+      "citation_norm_percentile": 0.05089631,
       "topics": [
         "Semantic Web and Ontologies"
       ],
