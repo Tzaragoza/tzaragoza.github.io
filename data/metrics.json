@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:47:24+00:00",
+  "updated_at": "2026-09-12T10:16:21+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 5,
@@ -29,13 +29,13 @@
       "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
       "citations": 0,
       "doi": null,
-      "url": "https://hal.science/hal-05594918",
-      "hal_url": "https://hal.science/hal-05594918",
+      "url": "https://hal.science/hal-05594918v1/document",
+      "hal_url": "https://hal.science/hal-05594918v1/document",
       "type": "conference-paper",
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.35758473,
+      "citation_norm_percentile": 0.35268109,
       "topics": [
         "Green IT and Sustainability",
         "Usability and User Interface Design",
