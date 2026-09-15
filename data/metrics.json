@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-14T12:06:51+00:00",
+  "updated_at": "2026-09-15T11:18:38+00:00",
   "author_openalex_id": "A5042578790",
-  "papers_tracked": 8,
+  "papers_tracked": 9,
   "total_citations": 5,
   "citations_by_year": [
     {
@@ -88,6 +88,33 @@
         "Adel Noureddine",
         "Ernesto Exposito"
       ],
+      "source": "OpenAlex"
+    },
+    {
+      "id": "W7212605042",
+      "title": "Adaptive approach for software energy reduction : from behavioral modeling to personalized feedback",
+      "year": 2026,
+      "venue": "—",
+      "citations": 0,
+      "doi": "10.70675/bfbc29f7z9c55z4a08za950z02d3e227ba53",
+      "url": "https://doi.org/10.70675/bfbc29f7z9c55z4a08za950z02d3e227ba53",
+      "hal_url": null,
+      "type": "dissertation",
+      "is_oa": false,
+      "oa_status": "closed",
+      "fwci": null,
+      "citation_norm_percentile": null,
+      "topics": [
+        "Green IT and Sustainability",
+        "Software Engineering Techniques and Practices",
+        "Digital Platforms and Economics"
+      ],
+      "keywords": [
+        "Context (archaeology)",
+        "Evasion (ethics)",
+        "Limiting"
+      ],
+      "coauthors": [],
       "source": "OpenAlex"
     },
     {
