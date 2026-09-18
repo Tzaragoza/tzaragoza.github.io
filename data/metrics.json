@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-17T11:11:34+00:00",
+  "updated_at": "2026-09-18T10:44:46+00:00",
   "author_openalex_id": "A5042578790",
-  "papers_tracked": 9,
+  "papers_tracked": 10,
   "total_citations": 5,
   "citations_by_year": [
     {
@@ -113,6 +113,38 @@
         "Context (archaeology)",
         "Evasion (ethics)",
         "Limiting"
+      ],
+      "coauthors": [],
+      "source": "OpenAlex"
+    },
+    {
+      "id": "W7213491067",
+      "title": "Approche adaptative pour la réduction de l'énergie logicielle : de la modélisation comportementale aux retours personnalisés",
+      "year": 2026,
+      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "citations": 0,
+      "doi": null,
+      "url": "https://theses.hal.science/tel-05748649",
+      "hal_url": "https://theses.hal.science/tel-05748649",
+      "type": "dissertation",
+      "is_oa": false,
+      "oa_status": "closed",
+      "fwci": null,
+      "citation_norm_percentile": null,
+      "topics": [
+        "Green IT and Sustainability",
+        "Personal Information Management and User Behavior",
+        "Software Engineering Research"
+      ],
+      "keywords": [
+        "Premise",
+        "Energy consumption",
+        "Relevance (law)",
+        "Context (archaeology)",
+        "Energy management",
+        "Energy (signal processing)",
+        "Feedback loop",
+        "Software"
       ],
       "coauthors": [],
       "source": "OpenAlex"
