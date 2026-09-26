@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-25T11:23:00+00:00",
+  "updated_at": "2026-09-26T10:58:41+00:00",
   "author_openalex_id": "A5042578790",
-  "papers_tracked": 10,
-  "total_citations": 5,
+  "papers_tracked": 9,
+  "total_citations": 6,
   "citations_by_year": [
     {
       "year": 2022,
@@ -14,7 +14,7 @@
     },
     {
       "year": 2025,
-      "citations": 5
+      "citations": 6
     },
     {
       "year": 2026,
@@ -22,39 +22,6 @@
     }
   ],
   "works": [
-    {
-      "id": "W7155138707",
-      "title": "Adaptive Software Energy Feedback for Long-Term User Engagement",
-      "year": 2026,
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
-      "citations": 0,
-      "doi": null,
-      "url": "https://hal.science/hal-05594918v1/document",
-      "hal_url": "https://hal.science/hal-05594918v1/document",
-      "type": "conference-paper",
-      "is_oa": false,
-      "oa_status": "closed",
-      "fwci": 0.0,
-      "citation_norm_percentile": 0.35268109,
-      "topics": [
-        "Green IT and Sustainability",
-        "Usability and User Interface Design",
-        "Personal Information Management and User Behavior"
-      ],
-      "keywords": [
-        "Software",
-        "Energy (signal processing)",
-        "User engagement",
-        "Key (lock)",
-        "Control (management)",
-        "User interface"
-      ],
-      "coauthors": [
-        "Adel Noureddine",
-        "Ernesto Exposito"
-      ],
-      "source": "OpenAlex"
-    },
     {
       "id": "W7167840122",
       "title": "Adaptive Software Energy Feedback for Long-Term User Engagement",
@@ -154,15 +121,15 @@
       "title": "A systematic mapping study on software-based feedback for energy consumption",
       "year": 2025,
       "venue": "Renewable and Sustainable Energy Reviews",
-      "citations": 2,
+      "citations": 3,
       "doi": "10.1016/j.rser.2025.115889",
       "url": "https://doi.org/10.1016/j.rser.2025.115889",
       "hal_url": null,
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4784,
-      "citation_norm_percentile": 0.56276563,
+      "fwci": 0.7147,
+      "citation_norm_percentile": 0.65211398,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -194,8 +161,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4926,
-      "citation_norm_percentile": 0.54227568,
+      "fwci": 0.4764,
+      "citation_norm_percentile": 0.53288224,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -262,7 +229,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00489527,
+      "citation_norm_percentile": 0.00467056,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
