@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T11:37:00+00:00",
+  "updated_at": "2026-09-28T13:11:33+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.8978966,
+      "citation_norm_percentile": 0.89698959,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
@@ -128,8 +128,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7147,
-      "citation_norm_percentile": 0.65211398,
+      "fwci": 0.71,
+      "citation_norm_percentile": 0.65025026,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -161,8 +161,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4764,
-      "citation_norm_percentile": 0.53288224,
+      "fwci": 0.4734,
+      "citation_norm_percentile": 0.5307048,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
