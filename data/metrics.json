@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:20:05+00:00",
+  "updated_at": "2026-09-30T12:05:33+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -91,8 +91,8 @@
       "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
       "citations": 0,
       "doi": null,
-      "url": "https://theses.hal.science/tel-05748649",
-      "hal_url": "https://theses.hal.science/tel-05748649",
+      "url": "https://hal.science/tel-05748649v1",
+      "hal_url": "https://hal.science/tel-05748649v1",
       "type": "dissertation",
       "is_oa": false,
       "oa_status": "closed",
@@ -128,8 +128,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.71,
-      "citation_norm_percentile": 0.65025026,
+      "fwci": 0.7075,
+      "citation_norm_percentile": 0.64928459,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
