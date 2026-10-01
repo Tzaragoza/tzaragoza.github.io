@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:05:33+00:00",
+  "updated_at": "2026-10-01T12:38:51+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -35,21 +35,20 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.89698959,
+      "citation_norm_percentile": 0.89626879,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
         "Software System Performance and Reliability"
       ],
       "keywords": [
-        "Novelty",
-        "Software",
-        "Energy (signal processing)",
-        "Key (lock)",
-        "Preference",
-        "Component (thermodynamics)",
-        "Empirical research",
-        "Component-based software engineering"
+        "preference drift",
+        "adaptive feedback",
+        "user engagement",
+        "user compliance",
+        "cold start",
+        "energy conservation",
+        "energy-aware software"
       ],
       "coauthors": [
         "Adel Noureddine",
@@ -104,14 +103,16 @@
         "Software Engineering Research"
       ],
       "keywords": [
-        "Premise",
-        "Energy consumption",
-        "Relevance (law)",
-        "Context (archaeology)",
-        "Energy management",
-        "Energy (signal processing)",
-        "Feedback loop",
-        "Software"
+        "personalized feedback",
+        "green computing",
+        "habituation",
+        "energy feedback",
+        "ICT energy consumption",
+        "energy awareness",
+        "user-centered design",
+        "user behavior",
+        "behavioral simulation",
+        "behavioral modeling"
       ],
       "coauthors": [],
       "source": "OpenAlex"
@@ -128,20 +129,24 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7075,
-      "citation_norm_percentile": 0.64928459,
+      "fwci": 0.7051,
+      "citation_norm_percentile": 0.64853072,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
         "Building Energy and Comfort Optimization"
       ],
       "keywords": [
-        "Computer science",
-        "Software",
-        "Energy consumption",
-        "Software engineering",
-        "Engineering",
-        "Operating system"
+        "smart grid",
+        "persuasive technology",
+        "energy feedback",
+        "ICT energy consumption",
+        "green computing",
+        "user awareness",
+        "home automation",
+        "end users",
+        "software energy consumption",
+        "sustainability"
       ],
       "coauthors": [
         "Adel Noureddine",
@@ -161,17 +166,23 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4734,
-      "citation_norm_percentile": 0.5307048,
+      "fwci": 0.47,
+      "citation_norm_percentile": 0.52895846,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
         "Innovation Diffusion and Forecasting"
       ],
       "keywords": [
-        "Computer science",
-        "Software",
-        "Programming language"
+        "energy efficiency",
+        "information and communication technologies",
+        "human behavior",
+        "commercial buildings",
+        "ICT sustainability",
+        "energy optimization",
+        "residential energy management",
+        "energy consumption monitoring",
+        "human intervention"
       ],
       "coauthors": [
         "Adel Noureddine",
@@ -229,21 +240,20 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00467056,
+      "citation_norm_percentile": 0.00466065,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
         "Personal Information Management and User Behavior"
       ],
       "keywords": [
-        "Computer science",
-        "Energy consumption",
-        "Software",
-        "Consumption (sociology)",
-        "Human–computer interaction",
-        "Operating system",
-        "Engineering",
-        "Electrical engineering"
+        "user feedback",
+        "software energy consumption",
+        "greenhouse gas emissions",
+        "end-user awareness",
+        "persuasive technology",
+        "user behavior change",
+        "user-centered design"
       ],
       "coauthors": [
         "Adel Noureddine",
@@ -264,23 +274,22 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.46952745,
+      "citation_norm_percentile": 0.46564376,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
         "Semantic Web and Ontologies"
       ],
       "keywords": [
-        "Identifier",
-        "Documentation",
-        "Task (project management)",
-        "Computer science",
-        "Unique identifier",
-        "Pipeline (software)",
-        "Agency (philosophy)",
-        "Process (computing)",
-        "Quality (philosophy)",
-        "Information retrieval"
+        "entity linking",
+        "bibliographic records",
+        "entity recognition",
+        "IFLA Library Reference Model",
+        "Sudoc",
+        "contributor roles",
+        "library cataloging",
+        "authority files",
+        "data quality"
       ],
       "coauthors": [
         "Yann Nicolas",
@@ -301,16 +310,17 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.05089631,
+      "citation_norm_percentile": 0.04711951,
       "topics": [
         "Semantic Web and Ontologies"
       ],
       "keywords": [
-        "Computer science",
-        "Information retrieval",
-        "Natural language processing",
-        "World Wide Web",
-        "Data science"
+        "entity linking",
+        "bibliographic records",
+        "entity recognition",
+        "contributor roles",
+        "author roles",
+        "linked data"
       ],
       "coauthors": [
         "Yann Nicolas",
