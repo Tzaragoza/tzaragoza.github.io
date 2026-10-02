@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T12:38:51+00:00",
+  "updated_at": "2026-10-02T12:03:12+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.89626879,
+      "citation_norm_percentile": 0.89530265,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
@@ -76,9 +76,14 @@
         "Digital Platforms and Economics"
       ],
       "keywords": [
-        "Context (archaeology)",
-        "Evasion (ethics)",
-        "Limiting"
+        "personalized feedback",
+        "green computing",
+        "habituation",
+        "behavioral modeling",
+        "energy feedback",
+        "contextual feedback",
+        "load forecasting",
+        "behavioral profiles"
       ],
       "coauthors": [],
       "source": "OpenAlex"
@@ -129,8 +134,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7051,
-      "citation_norm_percentile": 0.64853072,
+      "fwci": 0.7023,
+      "citation_norm_percentile": 0.64737419,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -166,8 +171,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.47,
-      "citation_norm_percentile": 0.52895846,
+      "fwci": 0.4682,
+      "citation_norm_percentile": 0.5279783,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -202,23 +207,22 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "gold",
-      "fwci": 2.4124,
-      "citation_norm_percentile": 0.90273974,
+      "fwci": 2.3571,
+      "citation_norm_percentile": 0.90027013,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
         "Spreadsheets and End-User Computing"
       ],
       "keywords": [
-        "Energy consumption",
-        "Work (physics)",
-        "Workflow",
-        "Consumption (sociology)",
-        "Carbon footprint",
-        "Closing (real estate)",
-        "Energy (signal processing)",
-        "Efficient energy use",
-        "Software"
+        "end-user behavior",
+        "software energy consumption",
+        "real-time energy feedback",
+        "energy awareness",
+        "energy-saving behavior",
+        "behaviour change interventions",
+        "green computing",
+        "user demographics"
       ],
       "coauthors": [
         "Thibaut Soulance",
@@ -240,7 +244,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00466065,
+      "citation_norm_percentile": 0.00464755,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -274,7 +278,7 @@
       "is_oa": true,
       "oa_status": "gold",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.46564376,
+      "citation_norm_percentile": 0.46582053,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
@@ -310,7 +314,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.04711951,
+      "citation_norm_percentile": 0.04710019,
       "topics": [
         "Semantic Web and Ontologies"
       ],
