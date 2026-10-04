@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:15:26+00:00",
+  "updated_at": "2026-10-04T11:55:15+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.89530265,
+      "citation_norm_percentile": 0.89318839,
       "topics": [
         "Green IT and Sustainability",
         "Software Engineering Research",
@@ -134,8 +134,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7023,
-      "citation_norm_percentile": 0.64737419,
+      "fwci": 0.7029,
+      "citation_norm_percentile": 0.64809499,
       "topics": [
         "Green IT and Sustainability",
         "Smart Grid Energy Management",
@@ -171,8 +171,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4682,
-      "citation_norm_percentile": 0.5279783,
+      "fwci": 0.4686,
+      "citation_norm_percentile": 0.52964861,
       "topics": [
         "Smart Grid Energy Management",
         "Green IT and Sustainability",
@@ -207,8 +207,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "gold",
-      "fwci": 2.3571,
-      "citation_norm_percentile": 0.90027013,
+      "fwci": 2.3294,
+      "citation_norm_percentile": 0.89885125,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -244,7 +244,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00464755,
+      "citation_norm_percentile": 0.00464871,
       "topics": [
         "Green IT and Sustainability",
         "Technology Adoption and User Behaviour",
@@ -269,16 +269,16 @@
       "id": "W4404981382",
       "title": "17 From Text to Data Inside Bibliographic Records: Entity Recognition and Linking",
       "year": 2024,
-      "venue": "—",
+      "venue": "De Gruyter eBooks",
       "citations": 0,
       "doi": "10.1515/9783111336435-018",
       "url": "https://doi.org/10.1515/9783111336435-018",
       "hal_url": null,
       "type": "book-chapter",
       "is_oa": true,
-      "oa_status": "gold",
+      "oa_status": "hybrid",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.46582053,
+      "citation_norm_percentile": 0.45903438,
       "topics": [
         "Natural Language Processing Techniques",
         "Data Quality and Management",
@@ -314,7 +314,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.04710019,
+      "citation_norm_percentile": 0.04702927,
       "topics": [
         "Semantic Web and Ontologies"
       ],
