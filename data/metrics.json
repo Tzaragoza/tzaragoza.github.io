@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T11:55:15+00:00",
+  "updated_at": "2026-10-05T13:54:13+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -199,20 +199,20 @@
       "id": "W7117131778",
       "title": "Understanding and Influencing End-User Behavior in Software Energy Consumption",
       "year": 2025,
-      "venue": "—",
+      "venue": "International Conference on Evaluation and Assessment in Software Engineering (EASE)",
       "citations": 1,
       "doi": "10.1145/3756681.3756930",
       "url": "https://doi.org/10.1145/3756681.3756930",
       "hal_url": null,
       "type": "conference-paper",
       "is_oa": true,
-      "oa_status": "gold",
-      "fwci": 2.3294,
-      "citation_norm_percentile": 0.89885125,
+      "oa_status": "hybrid",
+      "fwci": 2.4239,
+      "citation_norm_percentile": 0.90082062,
       "topics": [
         "Green IT and Sustainability",
-        "Innovative Human-Technology Interaction",
-        "Spreadsheets and End-User Computing"
+        "Energy Efficiency in Computing",
+        "Environmental Education and Sustainability"
       ],
       "keywords": [
         "end-user behavior",
@@ -235,7 +235,7 @@
       "id": "W4391077181",
       "title": "Studying the Impact of User Feedback on Software Energy Consumption",
       "year": 2024,
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": "IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
       "citations": 0,
       "doi": "10.1109/percomworkshops59983.2024.10503511",
       "url": "https://doi.org/10.1109/percomworkshops59983.2024.10503511",
@@ -244,11 +244,11 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00464871,
+      "citation_norm_percentile": 0.00440582,
       "topics": [
         "Green IT and Sustainability",
-        "Technology Adoption and User Behaviour",
-        "Personal Information Management and User Behavior"
+        "Innovative Human-Technology Interaction",
+        "Energy Efficiency in Computing"
       ],
       "keywords": [
         "user feedback",
