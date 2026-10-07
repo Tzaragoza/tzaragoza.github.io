@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T12:56:34+00:00",
+  "updated_at": "2026-10-07T12:51:23+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -35,11 +35,11 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.89318839,
+      "citation_norm_percentile": 0.53662563,
       "topics": [
         "Green IT and Sustainability",
-        "Software Engineering Research",
-        "Software System Performance and Reliability"
+        "Energy Efficiency in Computing",
+        "Innovative Human-Technology Interaction"
       ],
       "keywords": [
         "preference drift",
@@ -72,8 +72,8 @@
       "citation_norm_percentile": null,
       "topics": [
         "Green IT and Sustainability",
-        "Software Engineering Techniques and Practices",
-        "Digital Platforms and Economics"
+        "Energy Efficiency in Computing",
+        "Environmental Education and Sustainability"
       ],
       "keywords": [
         "personalized feedback",
@@ -104,8 +104,8 @@
       "citation_norm_percentile": null,
       "topics": [
         "Green IT and Sustainability",
-        "Personal Information Management and User Behavior",
-        "Software Engineering Research"
+        "Energy Efficiency in Computing",
+        "Innovative Human-Technology Interaction"
       ],
       "keywords": [
         "personalized feedback",
@@ -134,12 +134,12 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7029,
-      "citation_norm_percentile": 0.64809499,
+      "fwci": 0.7168,
+      "citation_norm_percentile": 0.65320549,
       "topics": [
         "Green IT and Sustainability",
-        "Smart Grid Energy Management",
-        "Building Energy and Comfort Optimization"
+        "Energy Efficiency in Computing",
+        "Innovative Human-Technology Interaction"
       ],
       "keywords": [
         "smart grid",
@@ -171,12 +171,12 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4686,
-      "citation_norm_percentile": 0.52964861,
+      "fwci": 0.4779,
+      "citation_norm_percentile": 0.53737398,
       "topics": [
-        "Smart Grid Energy Management",
         "Green IT and Sustainability",
-        "Innovation Diffusion and Forecasting"
+        "Environmental Education and Sustainability",
+        "Smart Grid Energy Management"
       ],
       "keywords": [
         "energy efficiency",
@@ -278,11 +278,11 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.45903438,
+      "citation_norm_percentile": 0.48555117,
       "topics": [
-        "Natural Language Processing Techniques",
+        "Library Science and Information Systems",
         "Data Quality and Management",
-        "Semantic Web and Ontologies"
+        "Topic Modeling"
       ],
       "keywords": [
         "entity linking",
@@ -314,9 +314,11 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.04702927,
+      "citation_norm_percentile": 0.06369794,
       "topics": [
-        "Semantic Web and Ontologies"
+        "Library Science and Information Systems",
+        "Data Quality and Management",
+        "Topic Modeling"
       ],
       "keywords": [
         "entity linking",
