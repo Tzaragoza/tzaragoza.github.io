@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T12:59:13+00:00",
+  "updated_at": "2026-10-09T12:45:47+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -134,8 +134,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7168,
-      "citation_norm_percentile": 0.65320549,
+      "fwci": 0.6961,
+      "citation_norm_percentile": 0.64390869,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
