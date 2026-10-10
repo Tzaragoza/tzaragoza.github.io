@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:45:47+00:00",
+  "updated_at": "2026-10-10T12:04:12+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 6,
@@ -35,7 +35,7 @@
       "is_oa": false,
       "oa_status": "closed",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.53662563,
+      "citation_norm_percentile": 0.51369894,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -134,8 +134,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.6961,
-      "citation_norm_percentile": 0.64390869,
+      "fwci": 0.6928,
+      "citation_norm_percentile": 0.64259659,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -171,8 +171,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4779,
-      "citation_norm_percentile": 0.53737398,
+      "fwci": 0.4619,
+      "citation_norm_percentile": 0.52449971,
       "topics": [
         "Green IT and Sustainability",
         "Environmental Education and Sustainability",
@@ -207,8 +207,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 2.421,
-      "citation_norm_percentile": 0.90068078,
+      "fwci": 2.3584,
+      "citation_norm_percentile": 0.89738447,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -244,7 +244,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.00440582,
+      "citation_norm_percentile": 0.00440722,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -278,7 +278,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.48555117,
+      "citation_norm_percentile": 0.49517847,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
@@ -314,7 +314,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.06369794,
+      "citation_norm_percentile": 0.06205813,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
