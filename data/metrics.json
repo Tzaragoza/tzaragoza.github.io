@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:18:19+00:00",
+  "updated_at": "2026-10-29T12:27:46+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 8,
@@ -35,7 +35,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.48109557,
+      "citation_norm_percentile": 0.47618134,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -134,8 +134,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.6624,
-      "citation_norm_percentile": 0.62954973,
+      "fwci": 0.6755,
+      "citation_norm_percentile": 0.63147328,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -171,8 +171,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4416,
-      "citation_norm_percentile": 0.51147145,
+      "fwci": 0.4503,
+      "citation_norm_percentile": 0.5132222,
       "topics": [
         "Green IT and Sustainability",
         "Environmental Education and Sustainability",
@@ -207,8 +207,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 2.2058,
-      "citation_norm_percentile": 0.88901577,
+      "fwci": 2.1813,
+      "citation_norm_percentile": 0.88759257,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -235,7 +235,7 @@
       "id": "W4391077181",
       "title": "Studying the Impact of User Feedback on Software Energy Consumption",
       "year": 2024,
-      "venue": "IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
+      "venue": "IEEE International Conference on Pervasive Computing and Communications Workshops (PerCom Workshops)",
       "citations": 2,
       "doi": "10.1109/percomworkshops59983.2024.10503511",
       "url": "https://doi.org/10.1109/percomworkshops59983.2024.10503511",
@@ -243,8 +243,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.5383,
-      "citation_norm_percentile": 0.74670123,
+      "fwci": 1.5295,
+      "citation_norm_percentile": 0.74562154,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -278,7 +278,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.49445724,
+      "citation_norm_percentile": 0.4878573,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
@@ -314,7 +314,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.06106129,
+      "citation_norm_percentile": 0.0611163,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
