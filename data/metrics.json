@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:19:37+00:00",
+  "updated_at": "2026-10-31T11:50:39+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 9,
   "total_citations": 8,
@@ -243,8 +243,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.5295,
-      "citation_norm_percentile": 0.74562154,
+      "fwci": 1.5282,
+      "citation_norm_percentile": 0.74543831,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
