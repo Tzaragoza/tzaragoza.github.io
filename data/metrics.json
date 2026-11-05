@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04T13:55:18+00:00",
+  "updated_at": "2026-11-05T14:12:12+00:00",
   "author_openalex_id": "A5042578790",
-  "papers_tracked": 9,
+  "papers_tracked": 8,
   "total_citations": 8,
   "citations_by_year": [
     {
@@ -84,40 +84,6 @@
         "contextual feedback",
         "load forecasting",
         "behavioral profiles"
-      ],
-      "coauthors": [],
-      "source": "OpenAlex"
-    },
-    {
-      "id": "W7213491067",
-      "title": "Adaptive approach for software energy reduction : from behavioral modeling to personalized feedback",
-      "year": 2026,
-      "venue": "HAL",
-      "citations": 0,
-      "doi": null,
-      "url": "https://hal.science/tel-05748649v1",
-      "hal_url": "https://hal.science/tel-05748649v1",
-      "type": "dissertation",
-      "is_oa": true,
-      "oa_status": "green",
-      "fwci": null,
-      "citation_norm_percentile": null,
-      "topics": [
-        "Green IT and Sustainability",
-        "Energy Efficiency in Computing",
-        "Innovative Human-Technology Interaction"
-      ],
-      "keywords": [
-        "personalized feedback",
-        "green computing",
-        "habituation",
-        "energy feedback",
-        "ICT energy consumption",
-        "energy awareness",
-        "user-centered design",
-        "user behavior",
-        "behavioral simulation",
-        "behavioral modeling"
       ],
       "coauthors": [],
       "source": "OpenAlex"
