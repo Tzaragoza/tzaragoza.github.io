@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T12:54:46+00:00",
+  "updated_at": "2026-11-09T15:29:30+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 10,
@@ -35,7 +35,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.43046766,
+      "citation_norm_percentile": 0.41802048,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -280,7 +280,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.04982599,
+      "citation_norm_percentile": 0.04767161,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
@@ -289,10 +289,14 @@
       "keywords": [
         "entity linking",
         "bibliographic records",
-        "entity recognition",
         "contributor roles",
-        "author roles",
-        "linked data"
+        "entity recognition",
+        "Sudoc",
+        "authority records",
+        "access points",
+        "data quality",
+        "machine learning",
+        "MARC records"
       ],
       "coauthors": [
         "Yann Nicolas",
