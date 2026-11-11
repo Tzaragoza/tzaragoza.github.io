@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:29:18+00:00",
+  "updated_at": "2026-11-11T13:44:01+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 10,
@@ -35,7 +35,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.41802048,
+      "citation_norm_percentile": 0.0,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -100,8 +100,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.8288,
-      "citation_norm_percentile": 0.67909293,
+      "fwci": 0.7915,
+      "citation_norm_percentile": 0.64349886,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -137,8 +137,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 3.544,
-      "citation_norm_percentile": 0.94043227,
+      "fwci": 3.4512,
+      "citation_norm_percentile": 0.88790453,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -173,8 +173,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.4144,
-      "citation_norm_percentile": 0.4876591,
+      "fwci": 0.3957,
+      "citation_norm_percentile": 0.46881342,
       "topics": [
         "Green IT and Sustainability",
         "Pro-Environmental Behavior and Attitudes",
@@ -209,8 +209,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.3614,
-      "citation_norm_percentile": 0.72033504,
+      "fwci": 1.3363,
+      "citation_norm_percentile": 0.71505622,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
@@ -244,7 +244,7 @@
       "is_oa": true,
       "oa_status": "hybrid",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.49887737,
+      "citation_norm_percentile": 0.0,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
