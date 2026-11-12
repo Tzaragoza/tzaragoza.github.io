@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:44:01+00:00",
+  "updated_at": "2026-11-12T14:47:23+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 10,
@@ -280,7 +280,7 @@
       "is_oa": true,
       "oa_status": "green",
       "fwci": 0.0,
-      "citation_norm_percentile": 0.04767161,
+      "citation_norm_percentile": 0.0,
       "topics": [
         "Library Science and Information Systems",
         "Data Quality and Management",
