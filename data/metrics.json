@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:07:27+00:00",
+  "updated_at": "2026-11-15T13:37:07+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 10,
@@ -173,8 +173,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.3957,
-      "citation_norm_percentile": 0.46881342,
+      "fwci": 0.3908,
+      "citation_norm_percentile": 0.46565003,
       "topics": [
         "Green IT and Sustainability",
         "Pro-Environmental Behavior and Attitudes",
@@ -209,8 +209,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.3363,
-      "citation_norm_percentile": 0.71505622,
+      "fwci": 1.3313,
+      "citation_norm_percentile": 0.71425153,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
