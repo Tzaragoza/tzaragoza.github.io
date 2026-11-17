@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-16T15:07:08+00:00",
+  "updated_at": "2026-11-17T15:38:38+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
-  "total_citations": 10,
+  "total_citations": 12,
   "citations_by_year": [
     {
       "year": 2022,
@@ -14,7 +14,7 @@
     },
     {
       "year": 2025,
-      "citations": 8
+      "citations": 10
     },
     {
       "year": 2026,
@@ -93,15 +93,15 @@
       "title": "A systematic mapping study on software-based feedback for energy consumption",
       "year": 2025,
       "venue": "Renewable and Sustainable Energy Reviews",
-      "citations": 4,
+      "citations": 5,
       "doi": "10.1016/j.rser.2025.115889",
       "url": "https://doi.org/10.1016/j.rser.2025.115889",
       "hal_url": null,
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.7816,
-      "citation_norm_percentile": 0.64028457,
+      "fwci": 0.8698,
+      "citation_norm_percentile": 0.67103661,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -130,15 +130,15 @@
       "title": "Understanding and Influencing End-User Behavior in Software Energy Consumption",
       "year": 2025,
       "venue": "International Conference on Evaluation and Assessment in Software Engineering (EASE)",
-      "citations": 2,
+      "citations": 3,
       "doi": "10.1145/3756681.3756930",
       "url": "https://doi.org/10.1145/3756681.3756930",
       "hal_url": null,
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 3.4003,
-      "citation_norm_percentile": 0.88646229,
+      "fwci": 3.9584,
+      "citation_norm_percentile": 0.92413075,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -173,8 +173,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.3908,
-      "citation_norm_percentile": 0.46565003,
+      "fwci": 0.3479,
+      "citation_norm_percentile": 0.43655027,
       "topics": [
         "Green IT and Sustainability",
         "Pro-Environmental Behavior and Attitudes",
@@ -209,8 +209,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.3313,
-      "citation_norm_percentile": 0.71425153,
+      "fwci": 1.0986,
+      "citation_norm_percentile": 0.6744305,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
