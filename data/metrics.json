@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:14:23+00:00",
+  "updated_at": "2026-11-23T17:36:32+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 12,
@@ -137,8 +137,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 3.7652,
-      "citation_norm_percentile": 0.91995668,
+      "fwci": 3.7517,
+      "citation_norm_percentile": 0.91954885,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -209,8 +209,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.0691,
-      "citation_norm_percentile": 0.66889308,
+      "fwci": 1.0656,
+      "citation_norm_percentile": 0.66791959,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
