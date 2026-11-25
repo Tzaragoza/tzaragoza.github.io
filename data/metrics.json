@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:06:53+00:00",
+  "updated_at": "2026-11-25T16:54:59+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 12,
@@ -100,8 +100,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.8402,
-      "citation_norm_percentile": 0.66154963,
+      "fwci": 0.8283,
+      "citation_norm_percentile": 0.65709256,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -137,8 +137,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 3.7517,
-      "citation_norm_percentile": 0.91954885,
+      "fwci": 3.6934,
+      "citation_norm_percentile": 0.91843798,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -173,8 +173,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.3361,
-      "citation_norm_percentile": 0.42828053,
+      "fwci": 0.3313,
+      "citation_norm_percentile": 0.42281114,
       "topics": [
         "Green IT and Sustainability",
         "Pro-Environmental Behavior and Attitudes",
