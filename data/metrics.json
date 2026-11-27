@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T16:32:23+00:00",
+  "updated_at": "2026-11-27T16:18:35+00:00",
   "author_openalex_id": "A5042578790",
   "papers_tracked": 8,
   "total_citations": 12,
@@ -100,8 +100,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.8283,
-      "citation_norm_percentile": 0.65709256,
+      "fwci": 0.825,
+      "citation_norm_percentile": 0.65592176,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -137,8 +137,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 3.6934,
-      "citation_norm_percentile": 0.91843798,
+      "fwci": 3.6597,
+      "citation_norm_percentile": 0.91757323,
       "topics": [
         "Green IT and Sustainability",
         "Energy Efficiency in Computing",
@@ -173,8 +173,8 @@
       "type": "article",
       "is_oa": true,
       "oa_status": "hybrid",
-      "fwci": 0.3313,
-      "citation_norm_percentile": 0.42281114,
+      "fwci": 0.3286,
+      "citation_norm_percentile": 0.42067168,
       "topics": [
         "Green IT and Sustainability",
         "Pro-Environmental Behavior and Attitudes",
@@ -209,8 +209,8 @@
       "type": "conference-paper",
       "is_oa": true,
       "oa_status": "green",
-      "fwci": 1.0545,
-      "citation_norm_percentile": 0.66734425,
+      "fwci": 1.052,
+      "citation_norm_percentile": 0.66681161,
       "topics": [
         "Green IT and Sustainability",
         "Innovative Human-Technology Interaction",
